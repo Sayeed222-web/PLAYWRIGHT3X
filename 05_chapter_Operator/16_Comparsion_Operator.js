@@ -11,7 +11,7 @@
 // Domiz = Pizz hut - Pizza Lose check
 // === -> Strict Comparsion ->
 
-// > , < , >= , <=     
+// > , < , >= , <=     //test
 
 
 // console.log(3 > 4);
